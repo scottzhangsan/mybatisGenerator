@@ -1,5 +1,5 @@
 package com.itdragon.mapper;
-//测试冲突
+///测试冲突
 import com.itdragon.pojo.Classroom;
 import com.itdragon.pojo.ClassroomExample;
 import java.util.List;
@@ -28,3 +28,4 @@ public interface ClassroomMapper {
 
     int updateByPrimaryKey(Classroom record);
 }
+>>>>>>> c31bfcfe5a56a23a5819baad13c45839f41e36b1
