@@ -1,4 +1,4 @@
---ORACLE中实现递归查询。冲突1
+--ORACLE中实现递归查询。冲突2
 --创建表
 create table menu{  
     menu_Id  varchar(31),  
