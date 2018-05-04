@@ -1,4 +1,4 @@
-package com.itdragon.pojo;
+package com.itdragon.pojo;//冲突
 public class Classroom {
     private Integer id;
 
