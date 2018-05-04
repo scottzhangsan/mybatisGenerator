@@ -1,7 +1,7 @@
 package com.itdragon.pojo;////冲突
-public class Classroom {
+public class Classroom {//冲突的形成
     private Integer id;
-
+    ///
     private String room;
 
     private Integer teacherId;
