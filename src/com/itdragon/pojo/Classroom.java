@@ -1,5 +1,5 @@
 package com.itdragon.pojo;////冲突
-public class Classroom {
+public class Classroom {//另一个人改了同样的代码
     private Integer id;
 
     private String room;
